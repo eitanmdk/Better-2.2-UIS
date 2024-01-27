@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.0",
+	"id": "eitan.betterUIS",
+	"name": "BetterUIs",
+	"developer": "Eitan",
+	"description": "better uis is the mod for having a better UI for some things in Geometry Dash, since the 2.2 has some bad UIs lol",
+	"gd": "2.204"
+}
